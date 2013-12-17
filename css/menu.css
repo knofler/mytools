@@ -1,0 +1,37 @@
+/*ul Styling*/
+
+.menu_ul{
+    
+    display: inline;
+}
+
+.profile_menu_ul{
+    
+    display: inline;
+}
+
+/*li Styling*/
+
+.menu_li{
+    
+    display: inline-block;
+}
+
+.profile_menu_li{
+    
+    /*display: inline;*/
+    /*float: right;*/
+}
+
+.menu_a{
+    
+    text-decoration: none;
+    color:#bdb9b9;
+    text-shadow: 1px 2px 0 #111;
+}
+
+.profile_a{
+    
+    text-decoration: none;
+    color:#444;
+}
